@@ -1,0 +1,1 @@
+This project grew out of a question I asked a friend: _How is it that two KBBQ restaurants can operate in the same block and not interfere with each other's respective sales?_
