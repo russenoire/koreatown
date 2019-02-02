@@ -1,1 +1,1 @@
-This project grew out of a question I asked a friend: _How is it that two KBBQ restaurants can operate in the same block and not interfere with each other's respective sales?_
+This project grew out of a question I asked a friend: _How is it that two KBBQ restaurants can operate in the same block and not interfere with each other's respective sales?_ This pattern is evident with other categories of business in the area too; Koreatown is one of the most densely populated neighborhoods in Los Angeles.
